@@ -1,2 +1,2 @@
-#chai aur backend series
+#backend series
 
